@@ -25,7 +25,7 @@
 
 | Chrome New Tab Example | Translations View |
 |------------------------|-------------------|
-| ![screen-1](starter/images/screen-1.png) | ![screen-2](starter/images/screen-2.png) |
+| ![screen-1](screen-1.png) | ![screen-2](screen-2.png) |
 
 ---
 
@@ -64,4 +64,4 @@ Quran Tap works on all Chromium-based browsers like Chrome, Edge, Brave, Vivaldi
 1. Fork the repository.
 2. Clone your fork:
    ```bash
-   git clone https://github.com/your-username/quran-tab.git
+   git clone https://github.com/abdelrahman-source/Quran-Tab.git
