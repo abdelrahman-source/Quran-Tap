@@ -64,4 +64,4 @@ Quran Tap works on all Chromium-based browsers like Chrome, Edge, Brave, Vivaldi
 1. Fork the repository.
 2. Clone your fork:
    ```bash
-   git clone https://github.com/abdelrahman-source/Quran-Tab.git
+   git clone (https://abdelrahman-source.github.io/Quran-Tap)
